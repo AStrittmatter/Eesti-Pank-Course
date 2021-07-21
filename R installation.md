@@ -8,7 +8,7 @@ We will use interactive Jupyter Notebooks during the PC labs. The advantage is t
 
 #### To Install R
 
-1. 1. Open an internet browser and go to [www.r-project.org](http://www.r-project.org/).
+ 1. Open an internet browser and go to [www.r-project.org](http://www.r-project.org/).
    2. Click the "download R" link in the middle of the page under "Getting Started."
    3. Select a CRAN location (a mirror site) and click the corresponding link.  
    4. Click on the "Download R for Windows" link at the top of the page.  
@@ -18,17 +18,17 @@ We will use interactive Jupyter Notebooks during the PC labs. The advantage is t
 
 #### To Install RStudio
 
-1. 1. Go to [www.rstudio.com](http://www.rstudio.com/) and click on the "Download RStudio" button (the free version is fine).
+1. Go to [www.rstudio.com](http://www.rstudio.com/) and click on the "Download RStudio" button (the free version is fine).
    2. Click on "Download RStudio Desktop."
    3. Click on the version recommended for your system, or the latest Windows version, and save the executable file.  Run the .exe file and follow the installation instructions. 
 
-1. 1. 
+
 
 ## MAC Users
 
 #### To Install R
 
-1. 1. Open an internet browser and go to [www.r-project.org](http://www.r-project.org/).
+ 1. Open an internet browser and go to [www.r-project.org](http://www.r-project.org/).
    2. Click the "download R" link in the middle of the page under "Getting Started."
    3. Select a CRAN location (a mirror site) and click the corresponding link.
    4. Click on the "Download R for (Mac) OS X" link at the top of the page.
@@ -38,7 +38,7 @@ We will use interactive Jupyter Notebooks during the PC labs. The advantage is t
 
 #### To Install RStudio
 
-1. 1. Go to [www.rstudio.com](http://www.rstudio.com/) and click on the "Download RStudio" button (the free version is fine).
+ 1. Go to [www.rstudio.com](http://www.rstudio.com/) and click on the "Download RStudio" button (the free version is fine).
    2. Click on "Download RStudio Desktop."
    3. Click on the version recommended for your system, or the latest Mac version, save the .dmg file on your computer, double-click it to open, and then drag and drop it to your applications folder.
 
